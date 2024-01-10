@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/98.ef118648.chunk.js","mappings":"qKAEA,MAIA,EAJeA,KACNC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,U","sources":["pages/tender/Detail.js"],"sourcesContent":["import React from 'react';\r\n\r\nconst Detail = () => {\r\n  return <div>Detail</div>;\r\n};\r\n\r\nexport default Detail;\r\n"],"names":["Detail","_jsx","children"],"sourceRoot":""}
