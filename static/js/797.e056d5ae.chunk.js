@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmaterialpro_main=self.webpackChunkmaterialpro_main||[]).push([[797],{6797:(a,e,s)=>{s.r(e),s.d(e,{default:()=>l});s(2791);var t=s(7689),c=s(184);const l=()=>{const{search:a}=(0,t.TH)();return console.log(a.split("=")[2]),(0,c.jsx)("div",{style:{height:"99vh"},children:(0,c.jsx)("embed",{src:"data:application/pdf;base64,".concat(a.split("=")[2]),className:"w-100 h-100"})})}}}]);
+//# sourceMappingURL=797.e056d5ae.chunk.js.map
